@@ -1,0 +1,79 @@
+body {
+  background-image: url("netflix-s.avif");
+}
+h1 {
+  color: #e50914;
+  font-family: sans-serif;
+  font-weight: 400px;
+  line-height: normal;
+  font-size: 45px;
+  height: 45px;
+  width: 167px;
+  cursor: pointer;
+}
+h2 {
+  color: #fff;
+  font-size: 39px;
+  font-weight: 500;
+  margin-bottom: 28px;
+}
+li {
+  display: inline;
+  color: #b3b3b3;
+}
+p {
+  color: #b3b3b3;
+}
+footer {
+  color: #b3b3b3;
+}
+.more {
+  color: #0318a0;
+}
+a:-webkit-any-link {
+  color: #ffffff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.sign-up-now {
+  font-size: larger;
+}
+
+.tick {
+  margin-left: 0 auto;
+}
+.help {
+  margin-left: 150px;
+}
+.container {
+  padding: 68px 60px 68px 40px;
+  margin-bottom: 90px;
+  background: rgba(0, 0, 0, 0.75);
+  border-radius: 4px;
+  width: 400px;
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+}
+.email-pass {
+  background: #333;
+  max-width: 100%;
+  width: 100%;
+  color: #fff;
+  margin: 15px;
+  border-radius: 6px;
+  font-size: 16px;
+  padding: 20px 5px 20px 0;
+}
+
+.in-sign {
+  background: #e50914;
+  max-width: 100%;
+  width: 100%;
+  padding: 20px 5px 20px 0;
+  margin: 15px;
+  font-size: 15px;
+  color: #fff;
+  cursor: pointer;
+}
